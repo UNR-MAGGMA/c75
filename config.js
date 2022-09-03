@@ -2,12 +2,12 @@ import firebase from "firebase";
 require("@firebase/firestore");
 
 var firebaseConfig = {
-  apiKey: "AIzaSyCZrG0BF6LrnRpWZjsPQxNGyMCLByo8HrM",
-  authDomain: "e-ride-549e4.firebaseapp.com",
-  projectId: "e-ride-549e4",
-  storageBucket: "e-ride-549e4.appspot.com",
-  messagingSenderId: "588298110700",
-  appId: "1:588298110700:web:34e3df331c6b1fc95047c9",
+ apiKey: "AIzaSyAWYf1-Yp_foQEbrGDKoQ3sGjKwYpSNi5Q",
+  authDomain: "e-library-41ddf.firebaseapp.com",
+  projectId: "e-library-41ddf",
+  storageBucket: "e-library-41ddf.appspot.com",
+  messagingSenderId: "724054347624",
+  appId: "1:724054347624:web:66ac43e548c9a3f49f50dd",
   measurementId: "G-G3K7BWL5LH"
 };
 
